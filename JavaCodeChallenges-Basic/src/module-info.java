@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author skvnv
- *
- */
-module JavaCodeChallenges {
-}
