@@ -1,0 +1,12 @@
+2025-03-15 09:55:17 [main] INFO  com.vn.utils.LogFilesGen - This is an info log message.
+2025-03-15 09:55:17 [main] WARN  com.vn.utils.LogFilesGen - This is a warning message.
+2025-03-15 09:55:17 [main] ERROR com.vn.utils.LogFilesGen - This is an error message.
+2025-03-15 09:55:22 [main] INFO  com.vn.utils.LogFilesGen - This is an info log message.
+2025-03-15 09:55:22 [main] WARN  com.vn.utils.LogFilesGen - This is a warning message.
+2025-03-15 09:55:22 [main] ERROR com.vn.utils.LogFilesGen - This is an error message.
+2025-03-15 09:55:27 [main] INFO  com.vn.utils.LogFilesGen - This is an info log message.
+2025-03-15 09:55:27 [main] WARN  com.vn.utils.LogFilesGen - This is a warning message.
+2025-03-15 09:55:27 [main] ERROR com.vn.utils.LogFilesGen - This is an error message.
+2025-03-15 09:55:32 [main] INFO  com.vn.utils.LogFilesGen - This is an info log message.
+2025-03-15 09:55:32 [main] WARN  com.vn.utils.LogFilesGen - This is a warning message.
+2025-03-15 09:55:32 [main] ERROR com.vn.utils.LogFilesGen - This is an error message.
